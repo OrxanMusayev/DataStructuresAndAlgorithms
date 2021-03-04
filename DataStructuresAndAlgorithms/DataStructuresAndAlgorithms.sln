@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAndAlgorithms", "DataStructuresAndAlgorithms\DataStructuresAndAlgorithms.csproj", "{3147FB16-8BDA-4B95-8983-99861C98ADDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3147FB16-8BDA-4B95-8983-99861C98ADDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3147FB16-8BDA-4B95-8983-99861C98ADDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3147FB16-8BDA-4B95-8983-99861C98ADDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3147FB16-8BDA-4B95-8983-99861C98ADDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D53E5DE-4332-45B4-8058-CCF7D31127F9}
+	EndGlobalSection
+EndGlobal
